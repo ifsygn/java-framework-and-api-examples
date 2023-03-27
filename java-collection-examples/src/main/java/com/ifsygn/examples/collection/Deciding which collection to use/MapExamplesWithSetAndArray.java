@@ -1,12 +1,12 @@
 /*
     13. Complex Data Structures
 
-    personnel   -> Map<String, Set<String>> personnel = new HashMap<String, Set<String>>();
+    personnel   -> HashMap<String, Set<String>>()
 
     personnel.put(vehicle, driverSet);
 
     vehicles    -> String[]
-    driverSet   -> Set<String> driverSet = new LinkedHashSet<String>();
+    driverSet   -> LinkedHashSet<String>()
 
  */
 
